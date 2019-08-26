@@ -24,7 +24,7 @@ function Table () {
 		SE = new Point(TABLE_CX + TABLE_W/2, TABLE_CY + TABLE_H/2);
 
 	/* colors, textures */
-	var cushColor = "rgba(0, 173, 57, 1)";
+	var cushColor = "rgba(0,0,0,1)";
 	
 	var textureSrc = "img/radica.jpg";
 	var texture;
